@@ -42,7 +42,6 @@ RegisterNetEvent("siseyidondur", function()
           print("sa")
           Wait(1000)
           print(rastgelesayi)
-          ExecuteCommand("Şişeyi Döndürür")
           donuyomu = true 
           Wait(rastgelesayi)
           donuyomu = false
